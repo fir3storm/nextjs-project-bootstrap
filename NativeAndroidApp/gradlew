@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+# Gradle wrapper script (simplified placeholder)
+echo "Gradle wrapper script placeholder. Please use Android Studio or install Gradle manually to build the project."
+exit 1
